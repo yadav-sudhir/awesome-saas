@@ -72,6 +72,7 @@
 * **[Recurly](https://recurly.com)** – Subscription management and billing platform.
 * **[Zoho Books](https://zoho.com/books)** – Online accounting for small businesses.
 * **[QuickBooks Online](https://quickbooks.intuit.com)** – Accounting, invoicing, and expense tracking.
+* **[SaaSCostLab](https://saascostlab.com/) - Free interactive SaaS stack, CRM onboarding, and AI token cost calculators with verified US pricing benchmarks.
 
 ### Customer Support & Live Chat
 
